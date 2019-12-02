@@ -9,6 +9,7 @@ var user1 = new user("Abdul Kalam");
 user1.greetUser();
 console.log(user.__proto__);
 
+/*
 //Object inheritance
 let Person = {
     firstName: "",
@@ -31,4 +32,5 @@ raj.two = "two";
 
 ram.greet();
 raj.greet();
+*/
 
